@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+}
+h1{
+    color:blueviolet ;
+}
+p{
+    color: beige;
+}
+div{
+    position:relative;
+    border: 10px solid green;
+    height: 600px;
+}
+#XYZ{
+    position: absolute;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: larger ;
+    text-align: center;
+    top: 80px;
+    right: 800px;
+}
+h3{
+    color: #ffff;
+    position: absolute;
+    top: 400px;
+    left: 200px;
+}

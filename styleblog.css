@@ -1,0 +1,162 @@
+body, h1, p, img {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+header h1{
+    font-size: 2.5em;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.centered-image {
+    text-align: center;
+}
+
+.centered-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content p {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid pink;
+}
+
+.side-image{
+    max-width: 100%;
+    height:auto;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: blueviolet;
+}
+p{
+    color:aliceblue;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.centered-image {
+    text-align: center;
+}
+
+.centered-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.content-container {
+    display:block ;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content p {
+    width: 45%;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: blueviolet;
+}
+p{
+    color:aliceblue;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.centered-image {
+    text-align: center;
+}
+
+.centered-image img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+.content {
+    display: flex ;
+    align-items:center;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    position:relative ;
+    bottom: 0;
+    width: 100%;
+}
